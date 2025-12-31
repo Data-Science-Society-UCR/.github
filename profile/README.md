@@ -11,6 +11,8 @@ This space serves as the central hub for managing and collaborating on club-rela
 
 [![Student Performance](https://img.shields.io/badge/Student%20Performance-Template-blueviolet?style=for-the-badge&logo=github)](https://github.com/Data-Science-Society-UCR/template-Predicting-Academics)
 
+[![Future Jobs & Skills Study](https://img.shields.io/badge/Future%20Jobs%20&%20Skills-Template-purple?style=for-the-badge&logo=github)](https://github.com/Data-Science-Society-UCR/future_jobs-template)
+
 
 ## 🌟 **Get Involved**
 1. **Join Our Discord:** Connect with other members and stay updated on events and discussions. [Join Now!](https://linktr.ee/dssucr)
